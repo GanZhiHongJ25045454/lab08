@@ -1,5 +1,5 @@
   <footer>
-    <p>&copy; 2025 Your Company</p>
+    <p>&copy; COS100262025</p>
   </footer>
 </body>
 </html>
